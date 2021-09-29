@@ -1,0 +1,24 @@
+/*************************** TAGS SELECTORS ***************************/
+body {
+  background-color: #E8F6EF;
+}
+h1 {
+  color: #6ECB63;
+}
+h3 {
+  color:#2F5D62;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+}
+
+/*************************** CLASS SELECTORS ***************************/
+.FirstImage {
+  border-radius: 50%;
+}
+
+
+/***************************** ID SELECTORS ****************************/
